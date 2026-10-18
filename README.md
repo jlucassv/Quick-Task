@@ -1,4 +1,4 @@
-# Quick Task — Protótipo de Organização de Tarefas
+# Quick Task
 
 ## Sobre o projeto
 Quick Task é uma proposta de interface para organizar tarefas pessoais e profissionais, acompanhar prazos, prioridades e status.
